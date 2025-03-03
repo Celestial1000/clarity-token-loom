@@ -8,6 +8,9 @@ TokenLoom is a decentralized platform that enables the creation and management o
 - Transfer ownership of chapters
 - View complete story arcs
 - Add contributors to story arcs
+- Update chapter content with version history
+- Manage story arc contributors
+- Enhanced security and validation
 
 ## Getting Started
 To interact with the TokenLoom contract, you'll need to:
@@ -17,3 +20,9 @@ To interact with the TokenLoom contract, you'll need to:
 
 ## Contract Functions
 See the contract documentation for detailed function descriptions and usage examples.
+
+### New Features
+- Chapter content updates with version history
+- Contributor management for story arcs
+- Enhanced security checks
+- Improved event logging
